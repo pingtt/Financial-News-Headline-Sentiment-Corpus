@@ -1,6 +1,6 @@
 # Financial-News-Headline-Sentiment-Corpus
-# Malaysia Financial News Headline Sentiment Corpus
-# Prepared by Tien-Ping Tan
+Malaysia Financial News Headline Sentiment Corpus
+Prepared by Tien-Ping Tan
 
 Data divided to training, testing and development set
 22k headlines annotated to: positive, negative and neutral sentiment
